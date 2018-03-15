@@ -56,21 +56,21 @@ kbd {
 }
 
 .fTom{  
-  position: absolute;
+  position: fixed;
   margin-top: 120px;
   margin-left: 25em;
 }
 
 .hihat {
-  position: absolute;
+  position: fixed;
   margin-top: 100px;
   margin-left: -590px;
 }
 
 .crash {
   position: fixed;
-  margin-top: -250px;
-  margin-left:550px;
+  top: 0px;
+  left:0px;
 }
 
 .ride {
