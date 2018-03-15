@@ -57,23 +57,59 @@ kbd {
 
 .fTom{  
   position: fixed;
-  margin-top: 120px;
-  margin-left: 25em;
+  top: 425px;
+  left: 1070px;
+}
+
+.tom {
+  position: fixed;
+  left: 970px;
+  top: 170px;
 }
 
 .hihat {
   position: fixed;
-  margin-top: 100px;
-  margin-left: -590px;
+  top: 400px;
+  left: 90px;
 }
 
 .crash {
   position: fixed;
-  top: 0px;
-  left:0px;
+  top: 95px;
+  left:1300px;
 }
 
 .ride {
   position: fixed;
-  margin-left: 550px;
+  left: 1300px;
 }
+.snare {
+  position: fixed;
+  left: 450px;
+  top: 400px;
+}
+
+.crash1 {
+  position: fixed;
+  left: 280px;
+  top: 70px;
+}
+
+.bam {
+  position: fixed;
+  top: 10px;
+  left: 750px;
+}
+
+.kick {
+  position: fixed;
+  left: 740px;
+  top: 330px;
+}
+
+/*.footer {
+  position: fixed;
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}*/
